@@ -1,0 +1,9 @@
+﻿body 
+{
+    background-color: burlywood;
+}
+
+label, p
+{
+    margin:10px;
+}
